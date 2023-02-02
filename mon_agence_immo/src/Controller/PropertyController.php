@@ -61,6 +61,4 @@ class PropertyController extends AbstractController
 
     }
 
-
-
 }
