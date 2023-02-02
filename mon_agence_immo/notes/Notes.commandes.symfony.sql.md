@@ -418,3 +418,4 @@ les etapes pour créer le projet:
 
 8. symfony console doctrine:migration:migrate 
     - ou symfony console d:m:m => migration vers la bdd
+9. php -S 127.0.0.1:8000 -t public => forcer le server à se connecter
